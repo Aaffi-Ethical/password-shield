@@ -34,7 +34,7 @@ A sleek, modern, and cyber-themed **Password Strength Analyst** application buil
 
 2. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Aaffi-Ethical/password-shield.git](https://github.com/Aaffi-Ethical/password-shield.git)
+   git clone https://github.com/Aaffi-Ethical/password-shield.git
    cd password-shield
 
 git clone https://github.com/Aaffi-Ethical/password-shield.git
